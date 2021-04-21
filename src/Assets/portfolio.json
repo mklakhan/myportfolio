@@ -29,6 +29,23 @@
         "repo": "https://github.com/mklakhan/partay_tracker" 
 
         
+    },
+    
+    {
+        "img":"password",
+        "title": "Password Generator",
+        "description": "An application that enables employees to generate random passwords based on criteria that they’ve selected.",
+        "repo": "https://github.com/mklakhan/password-generator" 
+
+        
+    },
+    {
+        "img":"workout",
+        "title": "Workout Tracker",
+        "description": "A workout tracker that allows a user to view, create, and track daily workouts.",
+        "repo": "https://github.com/mklakhan/Workout-Tracker" 
+
+        
     }
 ] 
 }
