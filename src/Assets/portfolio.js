@@ -27,7 +27,23 @@ export const data   =
             "title": "Partay Tracker Application",
             "description": "A web application that allows users to create and attend events occurring in their social circle.",
             "repo": "https://github.com/mklakhan/partay_tracker"
+        },
+
+        {
+            "img": require("../Assets/password.jpg"),
+            "title": "Password Generator",
+            "description": "An application that enables employees to generate random passwords based on criteria that they’ve selected.",
+            "repo": "https://github.com/mklakhan/password-generator" 
+        },
+
+        {
+            "img": require("../Assets/workout.jpg"),
+            "title": "Workout Tracker",
+            "description": "A workout tracker that allows a user to view, create, and track daily workouts.",
+            "repo": "https://github.com/mklakhan/Workout-Tracker" 
         }
+
+
 
     ]
     }
