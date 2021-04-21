@@ -26,7 +26,8 @@ export const data   =
             "img": require("../Assets/partaytracker.jpg"),
             "title": "Partay Tracker Application",
             "description": "A web application that allows users to create and attend events occurring in their social circle.",
-            "repo": "https://github.com/mklakhan/partay_tracke"
+            "repo": "https://github.com/mklakhan/partay_tracker"
         }
+
     ]
     }
