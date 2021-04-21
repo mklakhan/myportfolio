@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.de00a707.chunk.css",
+    "main.js": "/myportfolio/static/js/main.1c840dff.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.1c840dff.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.1d2cffeb.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.1d2cffeb.js.map",
+    "static/js/2.f973b4ed.chunk.js": "/myportfolio/static/js/2.f973b4ed.chunk.js",
+    "static/js/2.f973b4ed.chunk.js.map": "/myportfolio/static/js/2.f973b4ed.chunk.js.map",
+    "static/js/3.43c84bcf.chunk.js": "/myportfolio/static/js/3.43c84bcf.chunk.js",
+    "static/js/3.43c84bcf.chunk.js.map": "/myportfolio/static/js/3.43c84bcf.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.de00a707.chunk.css.map": "/myportfolio/static/css/main.de00a707.chunk.css.map",
+    "static/js/2.f973b4ed.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.f973b4ed.chunk.js.LICENSE.txt",
+    "static/media/chicago.36ee4dc7.jpg": "/myportfolio/static/media/chicago.36ee4dc7.jpg",
+    "static/media/dailyplanner.jpg": "/myportfolio/static/media/dailyplanner.ffdfc2ba.jpg",
+    "static/media/App.css": "/myportfolio/static/media/homebanner.3c9103d0.jpg",
+    "static/media/logo.6ce24c58.svg": "/myportfolio/static/media/logo.6ce24c58.svg",
+    "static/media/moviesontherocks.jpg": "/myportfolio/static/media/moviesontherocks.60c9f05d.jpg",
+    "static/media/partaytracker.jpg": "/myportfolio/static/media/partaytracker.b65172c7.jpg",
+    "static/media/savedbythebellquiz.jpg": "/myportfolio/static/media/savedbythebellquiz.e45b96be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2cffeb.js",
+    "static/js/2.f973b4ed.chunk.js",
+    "static/css/main.de00a707.chunk.css",
+    "static/js/main.1c840dff.chunk.js"
+  ]
+}
