@@ -7,7 +7,7 @@
         "repo": "https://github.com/mklakhan/movies-on-the-rocks"
     },
     {
-        "img":"savedbythebellquiz",
+        "img":"../Assets/savedbythebellquiz.jpg",
         "title": "Saved by the Bell Trivia",
         "description": "A web application that shakes up your movie night by recommending beverages based on the flicks you're watching, so you feel part of all the action!",
         "repo": "https://github.com/mklakhan/code-quiz" 
@@ -15,7 +15,7 @@
 
     },
     {
-        "img":"dailyplanner",
+        "img":"../Assets/dailyplanner.jpg",
         "title": "Dayplanner Application",
         "description": "A simple calendar application for scheduling your work day.",
         "repo": "https://github.com/mklakhan/dayplanner" 
@@ -23,7 +23,7 @@
         
     },
     {
-        "img":"partaytracker",
+        "img":"../Assets/partaytracker.jpg",
         "title": "Partay Tracker Application",
         "description": "A web application that allows users to create and attend events occurring in their social circle.",
         "repo": "https://github.com/mklakhan/partay_tracker" 
@@ -32,7 +32,7 @@
     },
     
     {
-        "img":"password",
+        "img":"../Assets/password.jpg",
         "title": "Password Generator",
         "description": "An application that enables employees to generate random passwords based on criteria that they’ve selected.",
         "repo": "https://github.com/mklakhan/password-generator" 
@@ -40,7 +40,7 @@
         
     },
     {
-        "img":"workout",
+        "img":"../Assets/workout.jpg",
         "title": "Workout Tracker",
         "description": "A workout tracker that allows a user to view, create, and track daily workouts.",
         "repo": "https://github.com/mklakhan/Workout-Tracker" 
