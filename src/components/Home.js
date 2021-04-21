@@ -9,10 +9,10 @@ export default function Home() {
                 <div className="hero-text">
                     <h1>Manpreet Lakhan</h1>
                     <p>Student in Full-Stack Web Developement Bootcamp @Northwestern</p>
-                     <a style={{display: "inline-block", marginRight: "2rem"}} href="https://www.linkedin.com/in/manpreetlakhan/" className="fa fa-linkedin"></a>
-                    <a style={{display: "inline-block", marginRight: "2rem"}} href="https://github.com/mklakhan" className="fa fa-github"></a>
-                    <a style={{display: "inline-block", marginRight: "2rem"}} href="https://github.com/mklakhan" className="far fa-file-pdf"></a>
-                    <a style={{display: "inline-block", marginRight: "2rem"}} href="https://drive.google.com/file/d/14drbg9B8qWWHeXKP-L9Jj14KRtV0L3G8/view?usp=sharing" className="fa fa-file-pdf-o"></a>
+                     <a style={{display: "inline-block", marginRight: "1rem"}} href="https://www.linkedin.com/in/manpreetlakhan/" className="fa fa-linkedin"></a>
+                    <a style={{display: "inline-block", marginRight: "1rem"}} href="https://github.com/mklakhan" className="fa fa-github"></a>
+                    <a style={{display: "inline-block", marginRight: "1rem"}} href="https://github.com/mklakhan" className="far fa-file-pdf"></a>
+                    <a style={{display: "inline-block", marginRight: "1rem"}} href="https://drive.google.com/file/d/14drbg9B8qWWHeXKP-L9Jj14KRtV0L3G8/view?usp=sharing" className="fa fa-file-pdf-o"></a>
                 </div>
             </div>
             <div className="portfolioRow">
